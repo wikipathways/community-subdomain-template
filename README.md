@@ -5,7 +5,7 @@ Template repository for WikiPathways subdomains
 ## Developers
 Subdomain redirect strategy for communities (portals), etc.
 
-1. Create new repo from this template
+1. Create new repo from the [new-community-subdomain](https://github.com/wikipathways/new-community-subdomain) template
 3. Add `CNAME` file with desired subdomain name. Create [manually](./CNAME) or use Settings/Pages.
 4. Turn on GitHub Pages, with the "Deploy from branch", the main branch, the `/` root.
 2. Edit the [index.html](index.html) file with redirect details
